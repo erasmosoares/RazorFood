@@ -13,6 +13,6 @@ namespace OdeToFood.Data
         {
 
         }
-        public DbSet<Restaurant> Restaurant { get; set; }
+        public DbSet<Restaurant> Restaurants { get; set; }
     }
 }
